@@ -1,4 +1,4 @@
 # healthcare
 
-- HTML, CSS, jQuery, JavaScript 
+- HTML, CSS, JavaScript 
 - Адаптив, анимация.
